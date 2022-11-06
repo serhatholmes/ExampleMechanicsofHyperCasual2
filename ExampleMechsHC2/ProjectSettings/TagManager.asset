@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Wood
   - Knife
+  - Box
+  - Platform
+  - GameOver
   layers:
   - Default
   - TransparentFX
